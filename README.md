@@ -8,6 +8,11 @@ If you have any questions, please feel free to contact me (zsy20110806207@stu.xj
 
 # How to run
 1. Switch to the root path of thei project and add path to matlab
+
         init_path
 2. Run any of the demo listed in the ./demo floder, such as
+
         demo_cases_DCmall
+
+The matlab scripts demo_cases_DCmall.m and demo_cases_RemoteImage.m reproduce the results of the simulated experiments (Section 5.1), and demo_urban.m
+and demo_Terrian.m reproduce the results of the real data experiments (Section 5.2)
