@@ -11,5 +11,3 @@ If you have any questions, please feel free to contact me (zsy20110806207@stu.xj
         init_path
 2. Run any of the demo listed in the ./demo floder, such as
         demo_cases_DCmall
-demo_cases_DCmall.m and demo_cases_RemoteImage.m reproduce the results of Simulated experiments (Section 5.1), and demo_urban.m and demo_Terrian.m reproduce the
-results of Real Data Experiments (Section 5.2).
